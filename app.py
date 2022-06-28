@@ -70,7 +70,7 @@ def predict():
         mines = (407 * n)  
         n += 1
         prediksi = int(forecast_days_after(x)) - mines
-        prediksi2 = (int(forecast_days_after(x+1)) - mines) -( 409 )
+        prediksi2 = (int(forecast_days_after(x+1)) - mines) -( 407 )
         tanggal = date_days_after(x, date_format="%d-%m-%Y")
         selisih = (prediksi2 - prediksi)
         indexx.append(x)
