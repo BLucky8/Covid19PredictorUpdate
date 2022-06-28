@@ -3,7 +3,7 @@
 Flask Application to run my Covid19 Death Predictor
 
 ## Link
-https://covid19deathpredictor.herokuapp.com/
+https://covid19deathpredictor2.herokuapp.com/
 
 ## Usage 
 
